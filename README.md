@@ -39,15 +39,27 @@
 
 #### Partner with eco-certification organizations and incorporate their standards into the platform to ensure accuracy and reliability of sustainability ratings.
 
+
+## Transportation Booking: 
+#### Users can conveniently book eco-friendly transportation options, including buses, car rentals, ridesharing services like Rapido, and train tickets through IRCTC.
+
+## Online Food Ordering: 
+#### Travelers can order delicious and sustainable food from their favorite restaurants through popular food delivery platforms like Swiggy and Zomato, promoting environmentally conscious dining options.
+
+## Beautiful Areas to Visit:
+#### The app guides users to explore nearby scenic areas, from breathtaking landscapes to serene parks, catering to nature lovers and promoting eco-friendly recreational activities.
+
+## Interactive Map: 
+#### The map showcases eco-friendly hotspots like parks and wildlife reserves within each destination.
+
 ## Tech Stack:
 
-#### Web development using frameworks like React or Angular.
-#### GIS (Geographic Information System) for mapping and location-based features.
-#### Machine learning for personalized recommendations and itinerary generation.
+#### HTML (HyperText Markup Language): HTML is used to structure the content and layout of the application, defining elements such as headers, paragraphs, links, and images.
+#### CSS (Cascading Style Sheets): CSS is employed to enhance the visual appearance of the application, including aspects such as colors, fonts, layout, and responsiveness.
+#### JavaScript: Enables dynamic interactivity on web pages. JavaScript is utilized to add functionality to the application, such as smooth scrolling, handling user interactions, and integrating with external services like Google Maps.
 
 ## Benefits:
 
-#### Encourages users to make environmentally conscious decisions during their travels.
-#### Fosters a sense of responsibility and awareness about the environmental impact of tourism.
-#### Establishes partnerships with eco-friendly businesses and organizations.
-#### This project not only serves the growing demand for sustainable travel but also empowers users to make informed choices that contribute to the well-being of the environment and local communities. It aligns with the global movement towards responsible tourism and has the potential to create positive social and environmental impacts.
+#### Encourages Environmentally Conscious Decisions: EcoVoyage encourages users to make environmentally conscious choices during their travels, minimizing their carbon footprint.
+#### Fosters Awareness: By raising awareness about the environmental impact of tourism, EcoVoyage fosters a sense of responsibility among travelers.
+#### Aligns with Global Movement: This project aligns with the global movement towards responsible tourism, contributing to positive social and environmental impacts.
