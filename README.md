@@ -8,6 +8,7 @@
 ## Key Features:
 
 ### Carbon Footprint Calculator:
+
 #### Integrates a tool that calculates the carbon footprint of a user's entire trip, including transportation, accommodation, and activities. Provides suggestions on how to offset or reduce the environmental impact.
 
 ### Green Transportation Options: 
